@@ -1,6 +1,6 @@
 # 🔭 [Blog(Ria9993.github.io)](https://ria9993.github.io/)
 - POCU Academy : Assistant (C Programming) (2022.05 ~ 2022.09)
-- ??? : ??? (2023.1 ~ )
+- ??? : ??? (2023.01 ~ )
 <!--
 **Ria9993/Ria9993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
