@@ -6,7 +6,7 @@
       + Bingo  
         (https://github.com/Ria9993/PlayGround/blob/main/6502%20bingo/nbingo.asm)
   + x86, x87
-    + Typer on MSDOS, with replace interrupt handler  
+    + Typer on MSDOS, with replace breakpoint interrupt handler  
       (https://github.com/Ria9993/PlayGround/blob/main/MSDOS%20x86%20typer/main.inc)
 + **SIMD (SSE, AVX)**
   + Matrix operation. transpose, transform, multiply(concatenate)  
