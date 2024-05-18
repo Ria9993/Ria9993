@@ -1,6 +1,5 @@
 # 🔭 [Blog(Ria9993.github.io)](https://ria9993.github.io/)
-+ **C**
-+ **C++**
++ **C/C++**
 + **ASM (x86, x87, 6502)**
 + **SIMD (SSE, AVX)**
 <!--
