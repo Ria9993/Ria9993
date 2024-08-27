@@ -1,7 +1,9 @@
 # 🔭 [Blog(Ria9993.github.io)](https://ria9993.github.io/)
 + **C/C++**
 + **ASM (x86, x87, 6502)**
-+ **SIMD (SSE, AVX)**
++ **SIMD (SSE/AVX, Neon)**
++ **Socket (IOCP, Kqueue, Epoll)**
++ **Multithread (x86, arm)**
 <!--
 **Ria9993/Ria9993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
