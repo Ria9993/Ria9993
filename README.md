@@ -4,7 +4,7 @@
 + **SIMD (SSE/AVX, Neon)**
 + **Socket (IOCP, Kqueue, Epoll)**
 + **Multithread (x86, arm)**
-+ **Windows/Linux/MacOS(Unix)**
++ **Windows/Linux/MacOS(Unix)/MSDOS**
 <!--
 **Ria9993/Ria9993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
