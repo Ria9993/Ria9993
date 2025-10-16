@@ -1,7 +1,7 @@
 # 🔭 [Blog(Ria9993.github.io)](https://ria9993.github.io/)
 + **C/C++**
 + **ASM (x86, x87, 6502)**
-+ **SIMD (SSE/AVX, Neon)**
++ **SIMD (SSE/AVX, Neon) with ASM**
 + **Socket (IOCP, Kqueue, Epoll)**
 + **Multithread (x86, arm)**
 + **Windows/Linux/MacOS(Unix)/MSDOS**
